@@ -2,7 +2,7 @@
 
 - [Full Report](report.pdf)
 - [Code](bayesian_analysis.ipynb)
-- [Data](data/nyc_housing_data.csv)
+- [Data](nyc_housing_data.csv)
 
 ## Overview
 
